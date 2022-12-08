@@ -16,8 +16,8 @@ public class PositionOfEachCharInString {
 			
 		}
 		System.out.println("<<********************>>");
-		for(int i=0;i<s.length();i++) {
-			set.add(s.charAt(i));
+		for(int i=0;i<st.length;i++) {
+			set.add(st[i]);
 		}
 		for(Character ch:set) {
 			for(int i=0;i<s.length();i++) {

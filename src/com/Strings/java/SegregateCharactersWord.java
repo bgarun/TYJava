@@ -21,8 +21,9 @@ public class SegregateCharactersWord {
 				n--;
 			}
 	}
-		for(int i=0;i<t.length;i++)
+		for(int i=0;i<t.length;i++) {
 		System.out.print(t[i]+" ");
 	}
 	
+}
 }

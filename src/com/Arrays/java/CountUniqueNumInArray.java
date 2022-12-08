@@ -18,7 +18,7 @@ public class CountUniqueNumInArray {
 				}
 			}
 			if(count==1) {
-				System.out.println(t+" Is Unique");
+				System.out.println(t+" Is Unique"+count);
 			}
 		}
 	

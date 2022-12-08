@@ -1,4 +1,4 @@
-package com.Arrays.java;
+ package com.Arrays.java;
 
 public class PrintFirstMinNumberArray {
 

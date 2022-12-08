@@ -7,8 +7,8 @@ public class ChangingOrderOfWordsInString {
 		//o/p= Karnataka am from I
 		
 		String[] st = s.split(" ");
-		String f=st[0];
-		String l=st[3];
+		//String f=st[0];
+		//String l=st[3];
 		String temp=st[0];
 		st[0]=st[st.length-1];
 		st[st.length-1]=temp;
